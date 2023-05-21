@@ -5,7 +5,7 @@ In this project, we want to find a good way of dividing our managers into a spec
 We want to use one of the most reliable clustering algorithms called ```Kmeans```. Actually, We need to find a way to distribute each team to the proper cluster, in order to make the cost of transportation lower and lower.
 But in this case, our main goal is to implement the algorithm from scratch (using ```scikit-learn``` prepared modules are forbidden) 
 
-### Prerequisites
+## Prerequisites
 We forced to use just these libraries:
 
 * [Pandas](https://pandas.pydata.org/getting_started.html) - pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
