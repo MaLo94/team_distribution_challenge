@@ -17,3 +17,4 @@ As mentioned in the previous section, you need to install some modules for this 
 ```
 $ pip install -r requirements.txt
 ```
+check [this](https://github.com/MaLo94/team_distribution_challenge/requirements.txt) for the details of the packages
