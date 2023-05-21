@@ -12,3 +12,8 @@ We forced to use just these libraries:
 * [Matplotlib](https://matplotlib.org/) - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python
 * [Numpy](https://numpy.org/) - NumPy brings the computational power of languages like C and Fortran to Python, a language much easier to learn and use
 
+### Installation
+As mentioned in the previous section, you need to install some modules for these project. The modules are referenced to install in the ```requirements.txt```. After cloning the repository, go to the directory of the repo and use the command below to install the packages:
+```
+$ pip install -r requirements.txt
+```
